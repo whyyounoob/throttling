@@ -1,0 +1,3 @@
+bucket:
+  limit: 10
+  duration: 1
