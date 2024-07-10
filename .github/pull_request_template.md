@@ -1,4 +1,6 @@
-## Describe your changes
+## PR Template
+* Changes
+  Describe your changes
 
 * Documentation updated:
   - [ ] Yes
