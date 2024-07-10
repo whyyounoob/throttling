@@ -1,5 +1,5 @@
 ## PR Template
-* **Changes**
+* **Changes:**/n
   Describe your changes
 
 * **Documentation updated:**
