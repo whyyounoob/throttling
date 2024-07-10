@@ -1,6 +1,6 @@
 ## Describe your changes
 
-Documentation updated:
+* Documentation updated:
 - [ ] Yes
 - [ ] No
 
