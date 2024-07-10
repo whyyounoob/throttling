@@ -1,13 +1,12 @@
 ## PR Template
-* Changes *
+* **Changes**
   Describe your changes
 
-* Documentation updated:
+* **Documentation updated:**
   - [ ] Yes
   - [ ] No
 
-* Checklist
-
+* **Checklist**
   - [ ] CodeStyle
   - [ ] Unit tests
   - [ ] One more
