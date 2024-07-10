@@ -1,11 +1,11 @@
 ## Describe your changes
 
 * Documentation updated:
-- [ ] Yes
-- [ ] No
+  - [ ] Yes
+  - [ ] No
 
-Checklist
+* Checklist
 
-- [ ] CodeStyle
-- [ ] Unit tests
-- [ ] One more
+  - [ ] CodeStyle
+  - [ ] Unit tests
+  - [ ] One more
